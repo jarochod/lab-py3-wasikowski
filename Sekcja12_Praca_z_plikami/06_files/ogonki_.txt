@@ -1,0 +1,2 @@
+Małe polskie ogonki: ą, ć, ę, ł, ń, ó, ś, ź, ż.
+Duże polskie ogonki: Ą, Ć, Ę, Ł, Ń, Ó, Ś, Ź, Ż.

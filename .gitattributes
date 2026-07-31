@@ -1,0 +1,17 @@
+# Ustawienie globalne dla plików tekstowych (Git sam zdecyduje, co jest tekstem)
+# Normalizuje EOL do LF w repozytorium (index)
+# i konwertuje na natywne EOL (CRLF na Windows) w katalogu roboczym
+* text=auto
+
+# Wymuś konkretne EOL dla krytycznych typów plików (np. skrypty powłoki)
+# Zapewnia LF nawet w katalogu roboczym (ważne dla skryptów bash)
+*.sh text eol=lf
+*.py text eol=lf
+
+# Wymuś konkretne EOL dla plików, które muszą mieć CRLF (np. dla specyficznych narzędzi Windows)
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Pliki binarne (Git nigdy nie dotyka końców linii)
+*.png binary
+*.jpg binary

@@ -1,0 +1,339 @@
+thread1 10:36:51 Adam 1
+thread2 10:36:51 Ola 2
+thread3 10:36:51 Kasia 3
+thread4 10:36:51 Daniel 4
+thread5 10:36:51 Rafał 5
+thread6 10:36:51 Adam 6
+thread7 10:36:51 Ola 7
+thread8 10:36:51 Kasia 8
+thread9 10:36:51 Daniel 9
+thread10 10:36:51 Rafał 10
+thread11 10:36:51 Adam 11
+thread12 10:36:51 Ola 12
+thread13 10:36:51 Kasia 13
+thread14 10:36:51 Daniel 14
+thread15 10:36:51 Rafał 15
+thread1 10:36:52 Adam 1 1
+thread2 10:36:52 Ola 2 2
+thread3 10:36:52 Kasia 3 3
+thread4 10:36:52 Daniel 4 4
+thread5 10:36:52 Rafał 5 5
+thread7 10:36:52 Ola 7 7
+thread6 10:36:52 Adam 6 6
+thread8 10:36:52 Kasia 8 8
+thread11 10:36:52 Adam 11 11
+thread9 10:36:52 Daniel 9 9
+thread10 10:36:52 Rafał 10 10
+thread13 10:36:52 Kasia 13 13
+thread12 10:36:52 Ola 12 12
+thread15 10:36:52 Rafał 15 15
+thread14 10:36:52 Daniel 14 14
+thread1 10:36:52 Adam 1 1 1
+thread2 10:36:52 Ola 2 2 2
+thread3 10:36:52 Kasia 3 3 3
+thread4 10:36:52 Daniel 4 4 4
+thread5 10:36:52 Rafał 5 5 5
+thread7 10:36:52 Ola 7 7 7
+thread6 10:36:52 Adam 6 6 6
+thread8 10:36:52 Kasia 8 8 8
+thread11 10:36:52 Adam 11 11 11
+thread9 10:36:52 Daniel 9 9 9
+thread10 10:36:52 Rafał 10 10 10
+thread13 10:36:52 Kasia 13 13 13
+thread15 10:36:52 Rafał 15 15 15
+thread12 10:36:52 Ola 12 12 12
+thread14 10:36:52 Daniel 14 14 14
+thread1 10:36:52 Adam 1 1 1 1
+thread2 10:36:52 Ola 2 2 2 2
+thread3 10:36:52 Kasia 3 3 3 3
+thread4 10:36:52 Daniel 4 4 4 4
+thread5 10:36:52 Rafał 5 5 5 5
+thread7 10:36:52 Ola 7 7 7 7
+thread6 10:36:52 Adam 6 6 6 6
+thread8 10:36:52 Kasia 8 8 8 8
+thread11 10:36:52 Adam 11 11 11 11
+thread10 10:36:52 Rafał 10 10 10 10
+thread9 10:36:52 Daniel 9 9 9 9
+thread13 10:36:52 Kasia 13 13 13 13
+thread12 10:36:52 Ola 12 12 12 12
+thread15 10:36:52 Rafał 15 15 15 15
+thread14 10:36:52 Daniel 14 14 14 14
+thread1 10:36:52 Adam 1 1 1 1 1
+thread2 10:36:52 Ola 2 2 2 2 2
+thread3 10:36:52 Kasia 3 3 3 3 3
+thread4 10:36:52 Daniel 4 4 4 4 4
+thread5 10:36:52 Rafał 5 5 5 5 5
+thread7 10:36:52 Ola 7 7 7 7 7
+thread6 10:36:52 Adam 6 6 6 6 6
+thread8 10:36:52 Kasia 8 8 8 8 8
+thread11 10:36:52 Adam 11 11 11 11 11
+thread10 10:36:52 Rafał 10 10 10 10 10
+thread9 10:36:52 Daniel 9 9 9 9 9
+thread13 10:36:52 Kasia 13 13 13 13 13
+thread12 10:36:52 Ola 12 12 12 12 12
+thread15 10:36:52 Rafał 15 15 15 15 15
+thread14 10:36:52 Daniel 14 14 14 14 14
+thread1 10:36:52 Adam 1 1 1 1 1 1
+thread2 10:36:52 Ola 2 2 2 2 2 2
+thread3 10:36:52 Kasia 3 3 3 3 3 3
+thread4 10:36:52 Daniel 4 4 4 4 4 4
+thread5 10:36:52 Rafał 5 5 5 5 5 5
+thread7 10:36:52 Ola 7 7 7 7 7 7
+thread6 10:36:52 Adam 6 6 6 6 6 6
+thread8 10:36:52 Kasia 8 8 8 8 8 8
+thread11 10:36:52 Adam 11 11 11 11 11 11
+thread9 10:36:52 Daniel 9 9 9 9 9 9
+thread10 10:36:52 Rafał 10 10 10 10 10 10
+thread13 10:36:52 Kasia 13 13 13 13 13 13
+thread12 10:36:52 Ola 12 12 12 12 12 12
+thread15 10:36:52 Rafał 15 15 15 15 15 15
+thread14 10:36:52 Daniel 14 14 14 14 14 14
+thread1 10:36:53 Adam 1 1 1 1 1 1 1
+thread2 10:36:53 Ola 2 2 2 2 2 2 2
+thread3 10:36:53 Kasia 3 3 3 3 3 3 3
+thread4 10:36:53 Daniel 4 4 4 4 4 4 4
+thread5 10:36:53 Rafał 5 5 5 5 5 5 5
+thread7 10:36:53 Ola 7 7 7 7 7 7 7
+thread6 10:36:53 Adam 6 6 6 6 6 6 6
+thread11 10:36:53 Adam 11 11 11 11 11 11 11
+thread8 10:36:53 Kasia 8 8 8 8 8 8 8
+thread9 10:36:53 Daniel 9 9 9 9 9 9 9
+thread10 10:36:53 Rafał 10 10 10 10 10 10 10
+thread13 10:36:53 Kasia 13 13 13 13 13 13 13
+thread12 10:36:53 Ola 12 12 12 12 12 12 12
+thread15 10:36:53 Rafał 15 15 15 15 15 15 15
+thread14 10:36:53 Daniel 14 14 14 14 14 14 14
+thread1 10:36:53 Adam 1 1 1 1 1 1 1 1
+thread2 10:36:53 Ola 2 2 2 2 2 2 2 2
+thread3 10:36:53 Kasia 3 3 3 3 3 3 3 3
+thread4 10:36:53 Daniel 4 4 4 4 4 4 4 4
+thread5 10:36:53 Rafał 5 5 5 5 5 5 5 5
+thread7 10:36:53 Ola 7 7 7 7 7 7 7 7
+thread6 10:36:53 Adam 6 6 6 6 6 6 6 6
+thread11 10:36:53 Adam 11 11 11 11 11 11 11 11
+thread8 10:36:53 Kasia 8 8 8 8 8 8 8 8
+thread9 10:36:53 Daniel 9 9 9 9 9 9 9 9
+thread10 10:36:53 Rafał 10 10 10 10 10 10 10 10
+thread13 10:36:53 Kasia 13 13 13 13 13 13 13 13
+thread12 10:36:53 Ola 12 12 12 12 12 12 12 12
+thread15 10:36:53 Rafał 15 15 15 15 15 15 15 15
+thread14 10:36:53 Daniel 14 14 14 14 14 14 14 14
+thread1 10:36:53 Adam 1 1 1 1 1 1 1 1 1
+thread2 10:36:53 Ola 2 2 2 2 2 2 2 2 2
+thread3 10:36:53 Kasia 3 3 3 3 3 3 3 3 3
+thread4 10:36:53 Daniel 4 4 4 4 4 4 4 4 4
+thread5 10:36:53 Rafał 5 5 5 5 5 5 5 5 5
+thread7 10:36:53 Ola 7 7 7 7 7 7 7 7 7
+thread6 10:36:53 Adam 6 6 6 6 6 6 6 6 6
+thread11 10:36:53 Adam 11 11 11 11 11 11 11 11 11
+thread8 10:36:53 Kasia 8 8 8 8 8 8 8 8 8
+thread9 10:36:53 Daniel 9 9 9 9 9 9 9 9 9
+thread10 10:36:53 Rafał 10 10 10 10 10 10 10 10 10
+thread13 10:36:53 Kasia 13 13 13 13 13 13 13 13 13
+thread12 10:36:53 Ola 12 12 12 12 12 12 12 12 12
+thread15 10:36:53 Rafał 15 15 15 15 15 15 15 15 15
+thread14 10:36:53 Daniel 14 14 14 14 14 14 14 14 14
+thread1 10:36:53 Adam 1 1 1 1 1 1 1 1 1 1
+thread2 10:36:53 Ola 2 2 2 2 2 2 2 2 2 2
+thread3 10:36:53 Kasia 3 3 3 3 3 3 3 3 3 3
+thread4 10:36:53 Daniel 4 4 4 4 4 4 4 4 4 4
+thread5 10:36:53 Rafał 5 5 5 5 5 5 5 5 5 5
+thread7 10:36:53 Ola 7 7 7 7 7 7 7 7 7 7
+thread6 10:36:53 Adam 6 6 6 6 6 6 6 6 6 6
+thread11 10:36:53 Adam 11 11 11 11 11 11 11 11 11 11
+thread9 10:36:53 Daniel 9 9 9 9 9 9 9 9 9 9
+thread8 10:36:53 Kasia 8 8 8 8 8 8 8 8 8 8
+thread10 10:36:53 Rafał 10 10 10 10 10 10 10 10 10 10
+thread13 10:36:53 Kasia 13 13 13 13 13 13 13 13 13 13
+thread12 10:36:53 Ola 12 12 12 12 12 12 12 12 12 12
+thread15 10:36:53 Rafał 15 15 15 15 15 15 15 15 15 15
+thread14 10:36:53 Daniel 14 14 14 14 14 14 14 14 14 14
+thread1 10:36:53 Adam 1 1 1 1 1 1 1 1 1 1 1
+thread2 10:36:53 Ola 2 2 2 2 2 2 2 2 2 2 2
+thread3 10:36:53 Kasia 3 3 3 3 3 3 3 3 3 3 3
+thread4 10:36:53 Daniel 4 4 4 4 4 4 4 4 4 4 4
+thread5 10:36:53 Rafał 5 5 5 5 5 5 5 5 5 5 5
+thread7 10:36:53 Ola 7 7 7 7 7 7 7 7 7 7 7
+thread6 10:36:53 Adam 6 6 6 6 6 6 6 6 6 6 6
+thread11 10:36:53 Adam 11 11 11 11 11 11 11 11 11 11 11
+thread9 10:36:53 Daniel 9 9 9 9 9 9 9 9 9 9 9
+thread8 10:36:53 Kasia 8 8 8 8 8 8 8 8 8 8 8
+thread10 10:36:53 Rafał 10 10 10 10 10 10 10 10 10 10 10
+thread13 10:36:53 Kasia 13 13 13 13 13 13 13 13 13 13 13
+thread12 10:36:53 Ola 12 12 12 12 12 12 12 12 12 12 12
+thread15 10:36:53 Rafał 15 15 15 15 15 15 15 15 15 15 15
+thread14 10:36:53 Daniel 14 14 14 14 14 14 14 14 14 14 14
+thread1 10:36:54 Adam 1 1 1 1 1 1 1 1 1 1 1 1
+thread2 10:36:54 Ola 2 2 2 2 2 2 2 2 2 2 2 2
+thread3 10:36:54 Kasia 3 3 3 3 3 3 3 3 3 3 3 3
+thread4 10:36:54 Daniel 4 4 4 4 4 4 4 4 4 4 4 4
+thread5 10:36:54 Rafał 5 5 5 5 5 5 5 5 5 5 5 5
+thread7 10:36:54 Ola 7 7 7 7 7 7 7 7 7 7 7 7
+thread6 10:36:54 Adam 6 6 6 6 6 6 6 6 6 6 6 6
+thread11 10:36:54 Adam 11 11 11 11 11 11 11 11 11 11 11 11
+thread9 10:36:54 Daniel 9 9 9 9 9 9 9 9 9 9 9 9
+thread8 10:36:54 Kasia 8 8 8 8 8 8 8 8 8 8 8 8
+thread10 10:36:54 Rafał 10 10 10 10 10 10 10 10 10 10 10 10
+thread13 10:36:54 Kasia 13 13 13 13 13 13 13 13 13 13 13 13
+thread12 10:36:54 Ola 12 12 12 12 12 12 12 12 12 12 12 12
+thread15 10:36:54 Rafał 15 15 15 15 15 15 15 15 15 15 15 15
+thread14 10:36:54 Daniel 14 14 14 14 14 14 14 14 14 14 14 14
+thread1 10:36:54 Adam 1 1 1 1 1 1 1 1 1 1 1 1 1
+thread2 10:36:54 Ola 2 2 2 2 2 2 2 2 2 2 2 2 2
+thread3 10:36:54 Kasia 3 3 3 3 3 3 3 3 3 3 3 3 3
+thread4 10:36:54 Daniel 4 4 4 4 4 4 4 4 4 4 4 4 4
+thread5 10:36:54 Rafał 5 5 5 5 5 5 5 5 5 5 5 5 5
+thread7 10:36:54 Ola 7 7 7 7 7 7 7 7 7 7 7 7 7
+thread6 10:36:54 Adam 6 6 6 6 6 6 6 6 6 6 6 6 6
+thread11 10:36:54 Adam 11 11 11 11 11 11 11 11 11 11 11 11 11
+thread9 10:36:54 Daniel 9 9 9 9 9 9 9 9 9 9 9 9 9
+thread8 10:36:54 Kasia 8 8 8 8 8 8 8 8 8 8 8 8 8
+thread10 10:36:54 Rafał 10 10 10 10 10 10 10 10 10 10 10 10 10
+thread13 10:36:54 Kasia 13 13 13 13 13 13 13 13 13 13 13 13 13
+thread12 10:36:54 Ola 12 12 12 12 12 12 12 12 12 12 12 12 12
+thread15 10:36:54 Rafał 15 15 15 15 15 15 15 15 15 15 15 15 15
+thread14 10:36:54 Daniel 14 14 14 14 14 14 14 14 14 14 14 14 14
+thread2 10:36:54 Ola 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+thread1 10:36:54 Adam 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+thread3 10:36:54 Kasia 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+thread5 10:36:54 Rafał 5 5 5 5 5 5 5 5 5 5 5 5 5 5
+thread4 10:36:54 Daniel 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+thread7 10:36:54 Ola 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+thread6 10:36:54 Adam 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+thread11 10:36:54 Adam 11 11 11 11 11 11 11 11 11 11 11 11 11 11
+thread9 10:36:54 Daniel 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+thread8 10:36:54 Kasia 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+thread13 10:36:54 Kasia 13 13 13 13 13 13 13 13 13 13 13 13 13 13
+thread10 10:36:54 Rafał 10 10 10 10 10 10 10 10 10 10 10 10 10 10
+thread12 10:36:54 Ola 12 12 12 12 12 12 12 12 12 12 12 12 12 12
+thread15 10:36:54 Rafał 15 15 15 15 15 15 15 15 15 15 15 15 15 15
+thread14 10:36:54 Daniel 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+thread2 10:36:54 Ola 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+thread1 10:36:54 Adam 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+thread3 10:36:54 Kasia 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+thread5 10:36:54 Rafał 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5
+thread4 10:36:54 Daniel 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+thread7 10:36:54 Ola 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+thread6 10:36:54 Adam 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+thread11 10:36:54 Adam 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11
+thread9 10:36:54 Daniel 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+thread8 10:36:54 Kasia 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+thread10 10:36:54 Rafał 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10
+thread13 10:36:54 Kasia 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13
+thread12 10:36:54 Ola 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12
+thread15 10:36:54 Rafał 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15
+thread14 10:36:54 Daniel 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+All threads ended
+thread1 ended. Threads done: 1
+-- thread2 status: True
+thread12 ended. Threads done: 2
+thread6 ended. Threads done: 3
+thread13 ended. Threads done: 4
+thread7 ended. Threads done: 5
+thread14 ended. Threads done: 6
+thread15 ended. Threads done: 7
+thread2 ended. Threads done: 8
+thread8 ended. Threads done: 9
+thread3 ended. Threads done: 10
+thread4 ended. Threads done: 11
+thread9 ended. Threads done: 12
+thread5 ended. Threads done: 13
+thread11 ended. Threads done: 14
+thread10 ended. Threads done: 15
+-- thread2 status: False
+All threads ended
+Total execution time: 3.01 seconds
+thread1 11:17:39 Adam 0
+thread2 11:17:39 Adam 0 0
+thread3 11:17:39 Adam 0 0 0
+thread4 11:17:39 Adam 0 0 0 0
+-- thread2 status: True
+thread5 11:17:39 Adam 0 0 0 0 0
+thread6 11:17:39 Adam 0 0 0 0 0 0
+thread7 11:17:39 Adam 0 0 0 0 0 0 0
+thread8 11:17:39 Adam 0 0 0 0 0 0 0 0
+thread9 11:17:39 Adam 0 0 0 0 0 0 0 0 0
+thread10 11:17:39 Adam 0 0 0 0 0 0 0 0 0 0
+thread11 11:17:39 Adam 0 0 0 0 0 0 0 0 0 0 0
+thread12 11:17:39 Adam 0 0 0 0 0 0 0 0 0 0 0 0
+thread13 11:17:39 Adam 0 0 0 0 0 0 0 0 0 0 0 0 0
+thread14 11:17:39 Adam 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+thread15 11:17:39 Adam 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+thread1 11:17:39 Ola 1
+thread2 11:17:39 Ola 1 1
+thread1 11:17:39 Kasia 2
+thread3 11:17:39 Ola 1 1 1
+thread4 11:17:40 Ola 1 1 1 1
+thread1 11:17:40 Daniel 3
+thread2 11:17:40 Kasia 2 2
+thread5 11:17:40 Ola 1 1 1 1 1
+thread6 11:17:40 Ola 1 1 1 1 1 1
+thread1 11:17:40 Rafał 4
+thread3 11:17:40 Kasia 2 2 2
+thread7 11:17:40 Ola 1 1 1 1 1 1 1
+thread2 11:17:40 Daniel 3 3
+thread8 11:17:40 Ola 1 1 1 1 1 1 1 1
+thread1 ended. Threads done: 1
+thread4 11:17:40 Kasia 2 2 2 2
+thread9 11:17:40 Ola 1 1 1 1 1 1 1 1 1
+thread10 11:17:40 Ola 1 1 1 1 1 1 1 1 1 1
+thread3 11:17:40 Daniel 3 3 3
+thread2 11:17:40 Rafał 4 4
+thread5 11:17:40 Kasia 2 2 2 2 2
+thread11 11:17:40 Ola 1 1 1 1 1 1 1 1 1 1 1
+thread12 11:17:40 Ola 1 1 1 1 1 1 1 1 1 1 1 1
+thread6 11:17:40 Kasia 2 2 2 2 2 2
+thread13 11:17:40 Ola 1 1 1 1 1 1 1 1 1 1 1 1 1
+thread4 11:17:41 Daniel 3 3 3 3
+thread2 ended. Threads done: 2
+thread14 11:17:41 Ola 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+thread3 11:17:41 Rafał 4 4 4
+thread7 11:17:41 Kasia 2 2 2 2 2 2 2
+thread15 11:17:41 Ola 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+thread8 11:17:41 Kasia 2 2 2 2 2 2 2 2
+thread5 11:17:41 Daniel 3 3 3 3 3
+thread4 11:17:41 Rafał 4 4 4 4
+thread3 ended. Threads done: 3
+thread9 11:17:41 Kasia 2 2 2 2 2 2 2 2 2
+thread6 11:17:41 Daniel 3 3 3 3 3 3
+thread10 11:17:41 Kasia 2 2 2 2 2 2 2 2 2 2
+thread7 11:17:41 Daniel 3 3 3 3 3 3 3
+thread5 11:17:41 Rafał 4 4 4 4 4
+thread11 11:17:41 Kasia 2 2 2 2 2 2 2 2 2 2 2
+thread4 ended. Threads done: 4
+thread12 11:17:42 Kasia 2 2 2 2 2 2 2 2 2 2 2 2
+thread8 11:17:42 Daniel 3 3 3 3 3 3 3 3
+thread6 11:17:42 Rafał 4 4 4 4 4 4
+thread13 11:17:42 Kasia 2 2 2 2 2 2 2 2 2 2 2 2 2
+-- thread2 status: False
+thread5 ended. Threads done: 5
+thread9 11:17:42 Daniel 3 3 3 3 3 3 3 3 3
+thread14 11:17:42 Kasia 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+thread7 11:17:42 Rafał 4 4 4 4 4 4 4
+thread15 11:17:42 Kasia 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+thread10 11:17:42 Daniel 3 3 3 3 3 3 3 3 3 3
+thread6 ended. Threads done: 6
+thread8 11:17:43 Rafał 4 4 4 4 4 4 4 4
+thread11 11:17:43 Daniel 3 3 3 3 3 3 3 3 3 3 3
+thread12 11:17:43 Daniel 3 3 3 3 3 3 3 3 3 3 3 3
+thread7 ended. Threads done: 7
+thread9 11:17:43 Rafał 4 4 4 4 4 4 4 4 4
+thread13 11:17:43 Daniel 3 3 3 3 3 3 3 3 3 3 3 3 3
+thread10 11:17:43 Rafał 4 4 4 4 4 4 4 4 4 4
+thread8 ended. Threads done: 8
+thread14 11:17:44 Daniel 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+thread15 11:17:44 Daniel 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+thread11 11:17:44 Rafał 4 4 4 4 4 4 4 4 4 4 4
+thread9 ended. Threads done: 9
+thread12 11:17:44 Rafał 4 4 4 4 4 4 4 4 4 4 4 4
+thread10 ended. Threads done: 10
+thread13 11:17:45 Rafał 4 4 4 4 4 4 4 4 4 4 4 4 4
+thread14 11:17:45 Rafał 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+thread11 ended. Threads done: 11
+thread15 11:17:45 Rafał 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+thread12 ended. Threads done: 12
+thread13 ended. Threads done: 13
+thread14 ended. Threads done: 14
+thread15 ended. Threads done: 15
+All threads ended
+Total execution time: 8.01 seconds
