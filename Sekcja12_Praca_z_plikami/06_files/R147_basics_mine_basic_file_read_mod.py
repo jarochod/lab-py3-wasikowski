@@ -11,12 +11,17 @@
 #  a - otwarcie pliku do zapisu, dodanie treści na koniec pliku, czyli treść nie jest kasowana
 #  Dodanie + powoduje otwarcie pliku zarówno do odczytu i zapisu np r+ (odczyt i zapis)
 
-fh = open("data/output/test.txt", "r")
-lines = fh.readlines()
-fh.close()
+from pathlib import Path
 
+# 1. Ścieżka do pliku (zastępuje zwykłe "test.txt")
+BASE_DIR = Path(__file__).resolve().parents[2]
+OUTPUT_DIR = BASE_DIR / "data" / "output"
+file_path = OUTPUT_DIR / "test.txt"
+
+# 2. Bezpieczny odczyt z automatycznym zamykaniem pliku
+with open(file_path, "r", encoding="utf-8") as fh:
+    lines = fh.readlines()
+
+# 3. Wypisanie linii w pętli (rstrip usuwa podwójne znaki nowej linii przy print)
 for line in lines:
-    print(line)
-
-# Ścieżki plików - Plik file1.txt pojawił się w aktualnym folderze na którym wykonuje się skrypt Pythona
-# tzw. current working directory. W moim przypadku  /lab-py3-wasikowski/
+    print(line.rstrip())

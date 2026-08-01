@@ -1,6 +1,6 @@
 # R147. Prosty odczyt z pliku
 
-fh = open("test.txt", "r")
+fh = open("data/output/test.txt", "r")
 lines = fh.readlines()
 fh.close()
 

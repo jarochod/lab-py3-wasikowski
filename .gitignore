@@ -4,3 +4,12 @@ __pycache__/
 .vscode/
 temp/
 Temp/
+
+# Logi i pliki robocze
+*.log
+*.tmp
+*.temp
+
+data/output/*
+!data/output/.gitkeep
+.env

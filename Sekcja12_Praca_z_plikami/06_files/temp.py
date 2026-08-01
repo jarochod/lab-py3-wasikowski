@@ -3,7 +3,7 @@ import os
 # # print(os.listdir("."))           # aktualny katalog
 # print(os.listdir("./Sekcja01_Wstep"))    # podfolder basics
 # # print(os.listdir(".."))          # katalog wyżej
-# print(os.listdir("../Python_PL_KW")) # katalog wyżej + programs
+# print(os.listdir("../lab-py3-wasikowski")) # katalog wyżej + programs
 
 
 

@@ -3,23 +3,23 @@
 
 
 # ścieżka relatywna
-fh = open("test.txt", "w")
+fh = open("data/output/test.txt", "w")
 fh.write("content1\n")
 fh.write("content2\n")
 fh.close()
 
-fh2 = open("test.txt", "a")
+fh2 = open("data/output/test.txt", "a")
 fh2.write("content3\n")
 fh2.close()
 
 
 
 # ścieżka absolutna
-fh = open("D:\\Projekty\\Projekty_VSC\\Python\\Python_PL_KW_\\test.txt", "w")
+fh = open("/home/jaro/dev/learning/lab-py3-wasikowski/data/output/test.txt", "w")
 fh.write("content1\n")
 fh.write("content2\n")
 fh.close()
 
-fh2 = open("D:\\Projekty\\Projekty_VSC\\Python\\Python_PL_KW_\\test.txt", "a")
+fh2 = open("/home/jaro/dev/learning/lab-py3-wasikowski/data/output/test.txt", "a")
 fh2.write("content3\n")
 fh2.close()

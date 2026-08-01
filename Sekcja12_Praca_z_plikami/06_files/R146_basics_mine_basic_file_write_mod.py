@@ -13,17 +13,25 @@
 #  a - otwarcie pliku do zapisu, dodanie treści na koniec pliku, czyli treść nie jest kasowana
 #  Dodanie + powoduje otwarcie pliku zarówno do odczytu i zapisu np r+ (odczyt i zapis)
 
-fh = open("data/output/test.txt", "w")
-fh.write("content1\n")
-fh.write("content2\n")
-fh.close()
+from pathlib import Path
 
+# R146. Wstęp do pracy z plikami. Zapis do pliku
 
+# 1. Wyznaczenie głównego katalogu projektu (lab-py3-wasikowski)
+BASE_DIR = Path(__file__).resolve().parents[2]
 
-fh2 = open("data/output/test.txt", "a")
-fh2.write("content3\n")
-fh2.close()
+# 2. Ścieżka do folderu wyjściowego
+OUTPUT_DIR = BASE_DIR / "data" / "output"
 
-# Ścieżki plików - Plik file.txt pojawił się w aktualnym folderze na którym wykonuje się skrypt Pythona
-# tzw. current working directory.
+# 3. Zdefiniowanie pełnej ścieżki do pliku test.txt w folderze output
+file_path = OUTPUT_DIR / "test.txt"
+
+# 4. Zapis do pliku (tryb 'w' - tworzy lub nadpisuje)
+with open(file_path, "w", encoding="utf-8") as fh:
+    fh.write("content1\n")
+    fh.write("content2\n")
+
+# 5. Dopisywanie do pliku (tryb 'a' - append)
+with open(file_path, "a", encoding="utf-8") as fh2:
+    fh2.write("content3\n")
 
