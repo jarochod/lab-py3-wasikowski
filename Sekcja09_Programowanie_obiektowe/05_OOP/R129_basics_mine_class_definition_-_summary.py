@@ -4,8 +4,7 @@
 
 # Definicja klasy wymaga słowa kluczowego class, po nim nazwę klasy z dużej litery oraz dwupropek.
 # Następnie w klasie można zapisać zmienne oraz metody, na których obiekt będzie operował.
-  
-print(sorted([1, 2, 0, 9, -1, 8], key=lambda x: x in [2]))
+
 
 class Person:
     def __init__(self, name, surname, country) -> None:
@@ -15,7 +14,7 @@ class Person:
 
     def getFullName(self):
         return f"Full name: {self.name} {self.surname}"
-    
+
     def printData(self):
         print(f"{self.name} {self.surname} {self.country}")
 

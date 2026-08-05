@@ -3,13 +3,14 @@
 import random
 
 class Student:
-    def __init__(self, name, surname, age, city):
+    def __init__(self, name, surname, age, city, schoolName=None, fieldOfStudy=None, country=None):
         self.name = name
         self.surname = surname
         self.age = age
         self.city = city
-        self.schoolName = None
-        self.fieldOfStudy = None
+        self.schoolName = schoolName
+        self.fieldOfStudy = fieldOfStudy
+        self.country = country
 
     def printInfo(self):
         print(self.name, self.surname, self.age, self.city, self.schoolName, self.fieldOfStudy)
